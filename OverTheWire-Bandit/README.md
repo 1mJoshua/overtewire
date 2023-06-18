@@ -1,0 +1,3 @@
+# OverTheWire-Bandit
+
+OverTheWire [Bandit](https://overthewire.org/wargames/bandit/) is a collection of levels designed to help you learn and practice basic Linux commands and security concepts. Each level presents a different challenge where you need to find the password for the next level by navigating through the system, solving puzzles, and exploiting vulnerabilities. This repository contains my solutions to the Bandit levels, as well as some helpful tips and explanations for each level.
